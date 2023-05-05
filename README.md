@@ -13,7 +13,7 @@ Please feel free to clone projects and raise issues if you think something could
     <a href="https://www.linkedin.com/in/elias-martinez-040980246/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
    
-  <img src="https://user-images.githubusercontent.com/80530309/149434382-85e45f80-e8b2-4c23-a9ab-51d9ce046b70.gif"/>
+  <img src="https://thumbs.gfycat.com/TeemingBountifulJuliabutterfly-max-1mb.gif"/>
 
 I'm a software developer who is passionate about creating technology to elevate people and helping new developers find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Redux.
 
