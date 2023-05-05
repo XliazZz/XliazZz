@@ -18,8 +18,12 @@ Please feel free to clone projects and raise issues if you think something could
 I'm a software developer who is passionate about creating technology to elevate people and helping new developers find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Redux.
 
 🔭 I'm a developer in Buenos Aires, Argentina.
+  
 🌱 I studied at Henry's bootcamp as a web developer full-stack.
+  
 ⚡ Fun fact: I'm 20 years old!
 
 💬 Ask me about **JavaScript, ReactJs, Redux, NodeJs, and Postgres SQL**.
+
+ ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=xliazzz&show_icons=true)
 
