@@ -24,6 +24,9 @@ I'm a software developer who is passionate about creating technology to elevate 
 ⚡ Fun fact: I'm 20 years old!
 
 💬 Ask me about **JavaScript, ReactJs, Redux, NodeJs, and Postgres SQL**.
+  
+• E-mail: martinezelias166@gmail.com
+• movil: (+54) 11 23858271
 
  ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=xliazzz&show_icons=true)
 
