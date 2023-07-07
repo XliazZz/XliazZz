@@ -48,5 +48,3 @@ Here are a couple of my projects:
 - [Globe Gazers](https://pi-countries-front-phi.vercel.app/)
 
 </div>
-
-Feel free to use this updated version for your GitHub readme.
