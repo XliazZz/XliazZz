@@ -45,6 +45,6 @@ I'm Elias Martinez, a software developer passionate about creating technology to
 Here are a couple of my projects:
 
 - [Rick and Morty App](https://rickandmorty-xliazzz.vercel.app/)
-- [Countries App](https://pi-countries-front-phi.vercel.app/)
+- [Globe Gazers](https://pi-countries-front-phi.vercel.app/)
 
 </div>
