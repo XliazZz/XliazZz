@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://thumbs.gfycat.com/TeemingBountifulJuliabutterfly-max-1mb.gif"/>
+
 # Hi there! 👋
 
 You have finally discovered my GitHub profile. 
