@@ -47,6 +47,4 @@ Here are a couple of my projects:
 - [Rick and Morty App](https://rickandmorty-xliazzz.vercel.app/)
 - [Countries App](https://pi-countries-front-phi.vercel.app/)
 
-Feel free to check them out!
-
 </div>
