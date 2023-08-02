@@ -26,8 +26,8 @@ I'm Elias Martinez, a software developer passionate about creating technology to
 
 ## Contact Information
 
-- 📧 Email: martinezelias166@gmail.com
-- 📞 Phone: (+54) 11 48884304
+- 📧 Email: elias1912@gmail.com
+- 📞 Phone: (+54) 11 4888-4304
 - 💼 LinkedIn: [Elias Martinez](https://www.linkedin.com/in/elias-martinez-040980246/)
 
 </div>
@@ -47,5 +47,6 @@ I'm Elias Martinez, a software developer passionate about creating technology to
 
 - [Rick and Morty App](https://rickandmorty-xliazzz.vercel.app/)
 - [Globe Gazers](https://pi-countries-front-phi.vercel.app/)
+- [The Bark Side](https://github.com/XliazZz/Dogs)
 
 </div>
