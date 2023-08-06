@@ -14,7 +14,7 @@ Please feel free to clone projects and raise issues if you think something could
 
 ## About Me
 
-I'm Elias Martinez, a software developer passionate about creating technology to elevate people and helping new developers find the right path. Some technologies I enjoy working with include JavaScript, ReactJS, React-Native, and Redux.
+I'm Elias Martinez, a software developer passionate about creating technology to elevate people and helping new developers find the right path. Some technologies I enjoy working with include JavaScript, TypeScript, Python, ReactJS, React-Native, Redux, Bootstrap, Vite, Express, Node.JS, Mongoose, Sequelize, Postgres y MongoDB.
 
 - 🔭 I'm a developer based in Buenos Aires, Argentina.
 - 🌱 I studied at Henry's bootcamp as a full-stack web developer.
