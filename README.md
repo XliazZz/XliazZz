@@ -47,6 +47,6 @@ I'm Elias Martinez, a software developer passionate about creating technology to
 
 - [Rick and Morty App](https://rickandmorty-xliazzz.vercel.app/)
 - [Globe Gazers](https://pi-countries-front-phi.vercel.app/)
-- [The Bark Side](https://github.com/XliazZz/Dogs)
+- [The Bark Side](https://the-bark-side-xliazzz.vercel.app/)
 
 </div>
