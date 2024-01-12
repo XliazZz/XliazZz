@@ -18,7 +18,7 @@ I'm Elias Martinez, a software developer passionate about creating technology to
 
 - 🔭 I'm a developer based in Buenos Aires, Argentina.
 - 🌱 I studied at Henry's bootcamp as a full-stack web developer.
-- ⚡ Fun fact: I'm 20 years old!
+- ⚡ Fun fact: I'm 21 years old!
 
 </div>
 
