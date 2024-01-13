@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://thumbs.gfycat.com/TeemingBountifulJuliabutterfly-max-1mb.gif"/>
+<img src="https://www.linkedin.com/mwlite/profile/me/add/background?trk=profile"/>
 
 # Hi there! 👋
 
