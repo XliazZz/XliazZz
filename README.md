@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.linkedin.com/mwlite/profile/me/add/background?trk=profile"/>
+<img src="https://programacionparatodossite.files.wordpress.com/2016/03/image.gif"/>
 
 # Hi there! 👋
 
