@@ -29,7 +29,7 @@ I'm Elias Martinez, a software developer passionate about creating technology to
 - 📧 Email: elias1912@gmail.com
 - 📞 Phone: (+54) 11 4888-4304
 - 💼 LinkedIn: [Elias Martinez](https://www.linkedin.com/in/elias-martinez-040980246/)
-- 🚀 [Portfolio](https://portfolio-xliazzz.vercel.app/)
+- 🚀 [Portfolio](https://portfolio-xliazzzs-projects.vercel.app/)
 
 </div>
 
